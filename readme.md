@@ -298,7 +298,7 @@ Jenis Sepatu 	: Basketball
 Kondisi Sepatu 	: Baru
 ```
 
-#### pakaiSepatu
+#### cuciSepatu
 Fungsi dengan parameter sebagai berikut
 <ul>
 <li> namaSepatu : String</li>
