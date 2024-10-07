@@ -370,7 +370,7 @@ Fungsi ini memangil dan mengeluarkan penjelasan rak sepatu dan mengeluarkan deta
 ```
 == Rak Sepatu ==
 Nama Pemilik 			: pemilik
-Ukuran Kaki Pemilik 	: ukuranKaki
+Ukuran Kaki Pemilik     	: ukuranKaki
 Slot Sepatu 			: slotSepatu
 Sisa Slot Kosong 		: sisaSlotKosong
 
