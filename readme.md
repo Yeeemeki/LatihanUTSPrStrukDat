@@ -10,6 +10,7 @@ Waktu estimasi kalian ngerjain harusnya sekitar 2 jam
 Kalo bingung, please jangan GPT dlu, prefer nanya temen atau DM aku (Nic T) di @nicho_tanugroho dulu. Sebisanya jangan AI ygy.
 <br>SEMANGAT!!
 <br> NB: Kalo ada cacat soal mon maaf ya ges yak, uda lelah... Di PC/DM aja aku, nanti ku revisi
+<br> <b> BOLEH DISEBARLUASKAN YA GES YA, TAPI JANGAN BRUTAL BRUTAL AMAT</b>
 ## Diagram Fungsi
 Mohon diperhatikan terlebih dahulu diagram berikut ini untuk memahami relasi antar objek
 ![Diagram Fungsi](Images/Diagram.png)
