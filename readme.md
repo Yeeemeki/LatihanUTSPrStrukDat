@@ -1,4 +1,4 @@
-# Soal Latihan UTS PrStrukDat
+# Soal Latihan UTS PrStrukDat (OOP)
 ## Mohon dibaca terlebih dahulu
 Halo buat kamu yang lagi ngerjain ini, 
 kayanya soal ini jauh lebih susah daripada soal UTS ku taun lalu… 
@@ -11,6 +11,7 @@ Kalo bingung, please jangan GPT dlu, prefer nanya temen atau DM aku (Nic T) di @
 <br>SEMANGAT!!
 <br> NB: Kalo ada cacat soal mon maaf ya ges yak, uda lelah... Di PC/DM aja aku, nanti ku revisi
 <br> <b> BOLEH DISEBARLUASKAN YA GES YA, TAPI JANGAN BRUTAL BRUTAL AMAT</b>
+BTW jangan dijadiin full referensi ya, ada materi materi lain yang harus dipelajari 
 ## Diagram Fungsi
 Mohon diperhatikan terlebih dahulu diagram berikut ini untuk memahami relasi antar objek
 ![Diagram Fungsi](Images/Diagram.png)
