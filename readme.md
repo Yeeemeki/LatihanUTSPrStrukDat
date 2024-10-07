@@ -14,6 +14,7 @@ Kalo bingung, please jangan GPT dlu, prefer nanya temen atau DM aku (Nic T) di @
 ## Diagram Fungsi
 Mohon diperhatikan terlebih dahulu diagram berikut ini untuk memahami relasi antar objek
 ![Diagram Fungsi](Images/Diagram.png)
+NB : ukuran itu semuanya Float, ada tipo di diagram tapi aku malas benerin hehe
 ## Penjelasan Class Sepatu
 ### Attribute
 #### namaSepatu
