@@ -22,7 +22,7 @@ Bertipe data String untuk menyimpan nama sepatu
 #### merek
 Bertipe data String untuk menyimpan merek sepatu
 #### warna
-Bertipe data Integer untuk menyimpan warna sepatu
+Bertipe data String untuk menyimpan warna sepatu
 #### ukuran
 Bertipe data Float untuk menyimpan ukuran sepatu
 #### jenis
